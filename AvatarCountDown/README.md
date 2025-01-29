@@ -7,7 +7,7 @@ another example is to show the level of the develope of the user in a game  ,
 the level of finiching a lesson in a learning app and some stuff like that
 
 # Preview
-![avatar-countdown](https://user-images.githubusercontent.com/25878302/116013073-4b3b1b80-a62b-11eb-8b3b-3b3b3b3b3b3b.png)
+![avatar-countdown](https://raw.githubusercontent.com/BouchantoufZakaria/ComposeDeeper/refs/heads/master/app/src/main/res/drawable/AvatarWithCounterPreview.jpg)
 
 # Notes 
 
